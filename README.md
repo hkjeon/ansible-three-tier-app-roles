@@ -1,2 +1,2 @@
-# ansible-three-tier-app-roles
-RedHat Ansible Automation 3 tier sample
+# aa-three-tier-app-roles
+This repository is used for Advanced ansible v2 course
